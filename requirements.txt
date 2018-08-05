@@ -1,0 +1,4 @@
+discord
+aysnico
+youtube-dl
+PyNaCI
